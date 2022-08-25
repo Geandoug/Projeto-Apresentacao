@@ -18,7 +18,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  [Firebase](https://firebase.google.com/)
  [React.js](https://pt-br.reactjs.org/)
  [React-router-dom](https://reactrouter.com/en/main)
-Al[VSCode](https://code.visualstudio.com/)
+[VSCode](https://code.visualstudio.com/)
 
 
 <h4 align="center"> 
